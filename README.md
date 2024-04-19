@@ -1,2 +1,2 @@
-# -Sign-Hand-to-Text-Pipeline
+# Sign-Hand-to-Text-Pipeline
 Python Project
