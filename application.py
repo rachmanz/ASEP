@@ -18,7 +18,7 @@ from keras.model import model_from_json #  Stand for transaction the model with 
 
 os.environ['THEANO_FLAGS'] = "device=cuda, assert_no_cpu_op=True"
 
-# Application 
+# Application GUI Python
 class Application:
     def __init__(self): 
         self.hs = Hunspell('en_US')
