@@ -10,7 +10,7 @@ Firstly, you can clone this repository with :
 git clone https://github.com/rachmanz/ASEP
 ```
 
-if you are using the git bash, if not you can find the release product alpha in [https://github.com/rachmanz/ASEP/releases/tag/v.0.0.1-alpha](ASEP Project)
+if you are using the git bash, if not you can find the release product alpha in [here](https://github.com/rachmanz/ASEP/releases/tag/v.0.0.1-alpha)
 
 So, after the cloning the repository you can run the requirement library to local python or another apps you can use :
 
